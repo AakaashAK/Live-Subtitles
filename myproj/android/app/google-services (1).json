@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366373358601",
+    "project_id": "live-subtitles-f114a",
+    "storage_bucket": "live-subtitles-f114a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366373358601:android:a763ef7a363e8b396dbcd8",
+        "android_client_info": {
+          "package_name": "com.aakash.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366373358601-ldr2te67un1tiumrcdrh6p2i2bcocgmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZzDFDZ7C2sX_Cpx49iRqVc6TYd9ml-w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366373358601-ldr2te67un1tiumrcdrh6p2i2bcocgmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
